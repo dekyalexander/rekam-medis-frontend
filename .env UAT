@@ -1,0 +1,18 @@
+# FIX REFRESH "react-scripts": "4.x"
+# https://github.com/facebook/create-react-app/issues/9984
+FAST_REFRESH=false
+
+PORT=3000
+REACT_APP_FOLDER_NAME=pusat
+REACT_APP_BACKEND_MODE = UAT
+PUBLIC_URL = http://192.168.1.251/pusat/
+
+REACT_APP_HOST_LOCAL =http://localhost:3000/
+REACT_APP_HOST_UAT =http://192.168.1.251/pusat/
+REACT_APP_HOST_PROD =http://192.168.1.251/pusat/
+
+REACT_APP_API_LOCAL =http://127.0.0.1:9000/api
+REACT_APP_API_UAT =http://192.168.1.251/apipusat/api
+REACT_APP_API_PROD =http://192.168.1.251/apipusat/api
+
+

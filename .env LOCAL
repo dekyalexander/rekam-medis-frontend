@@ -1,0 +1,12 @@
+# FIX REFRESH "react-scripts": "4.x"
+# https://github.com/facebook/create-react-app/issues/9984
+FAST_REFRESH=false
+
+PORT=3002
+REACT_APP_FOLDER_NAME=rekam-medis-frontend
+REACT_APP_BACKEND_MODE = LOCAL
+PUBLIC_URL=http://localhost:8001
+REACT_APP_HOST_LOCAL=http://localhost:3002
+REACT_APP_API_LOCAL=http://127.0.0.1:8001/api
+
+

@@ -1,0 +1,16 @@
+# FIX REFRESH "react-scripts": "4.x"
+# https://github.com/facebook/create-react-app/issues/9984
+FAST_REFRESH=false
+
+PORT=3000
+REACT_APP_FOLDER_NAME=rekammedis
+REACT_APP_BACKEND_MODE = PROD
+PUBLIC_URL = http://139.255.38.102/rekammedis/
+
+REACT_APP_HOST_LOCAL =http://localhost:3000/
+REACT_APP_HOST_PROD =http://139.255.38.102/rekammedis/
+
+REACT_APP_API_LOCAL =http://127.0.0.1:8001/api
+REACT_APP_API_PROD =http://139.255.38.102/apirekammedis/api
+
+
