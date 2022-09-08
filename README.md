@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## 1.install
+## 1. install
 
 ### npm
 
@@ -15,7 +15,7 @@ npm i --legacy-peer-deps
 yarn install
 ```
 
-## 2.Start
+## 2. Start
 
 ```sh
 npm start
@@ -23,7 +23,7 @@ or
 yarn start
 ```
 
-## 2.Build
+## 2. Build
 
 ```sh
 npm run build or yarn build
@@ -39,3 +39,7 @@ Your app is ready to be deployed.
 ## User Guide
 
 You can find detailed instructions on using Create React App and many tips in [its documentation](https://facebook.github.io/create-react-app/).
+
+## 3. ScreenShoot Application
+
+
