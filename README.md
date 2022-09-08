@@ -1,11 +1,4 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## dummy account
-
-username : pahoa
-password : 123
-
-
 ## 1.install
 
 ### npm
